@@ -82438,7 +82438,7 @@ return A.bt(s,A.aW(a,s,s,s,B.Qr,s,s),B.o,s,s,new A.bw(r,s,p,q,s,s,B.P),s,s,s,B.D
 $S:199}
 A.GJ.prototype={
 O(a){var s=null,r=A.pJ(B.ae,s,B.cG,B.au,A.aGQ(A.pJ(B.ae,s,s,s,s,s).ok),s)
-return new A.yo(A.a3(["/",new A.XR(),"/services",new A.XS(),"/industries",new A.XT(),"/security",new A.XU(),"/careers",new A.XV(),"/about",new A.XW()],t.N,t.Ab),"/","ApexServe BPO & Tech Solutions",r,!1,s)}}
+return new A.yo(A.a3(["/",new A.XR(),"/services",new A.XS(),"/industries",new A.XT(),"/security",new A.XU(),"/careers",new A.XV(),"/about",new A.XW()],t.N,t.Ab),"/","pickiworldglobal.com",r,!1,s)}}
 A.XR.prototype={
 $1(a){return B.Ev},
 $S:535}
